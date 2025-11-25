@@ -18,10 +18,8 @@
 https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
-
-
-# Sample images 
-
+![WhatsApp Image 2025-11-25 at 08 30 47_eedeff12](https://github.com/user-attachments/assets/2584834e-203f-4a97-9632-3746569257e2)
 
 # Result
+![WhatsApp Image 2025-11-25 at 08 31 03_f4cde076](https://github.com/user-attachments/assets/b4c5786d-2dbe-45dd-bddf-08a17b0ebb9e)
 
